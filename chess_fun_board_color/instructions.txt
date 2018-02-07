@@ -2,4 +2,7 @@ Chess Fun #1: Chess Board Cell Color
 
 Given two cells on the standard chess board, determine whether they have the same color or not.
 
+odd numbers start @ color
+
+
 https://www.codewars.com/kata/5894134c8afa3618c9000146/train/javascript

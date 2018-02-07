@@ -1,0 +1,6 @@
+
+class node(value) {
+
+
+
+}
